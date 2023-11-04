@@ -6,6 +6,7 @@ import (
 	"os"
 	"os/signal"
 
+	"github.com/fynjybath/LifeGame-GO-server/http"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

@@ -5,7 +5,9 @@ import (
 	"fmt"
 	"net/http"
 	"time"
-    
+
+	"github.com/fynjybath/LifeGame-GO-server/http/handler"
+	"github.com/fynjybath/LifeGame-GO-server/internal/service"
 	"go.uber.org/zap"
 )
 

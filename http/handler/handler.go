@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 
+	"github.com/fynjybath/LifeGame-GO-server/internal/service"
 )
 
 // создадим новый тип для добавления middleware к обработчикам

@@ -3,7 +3,8 @@ package service
 import (
 	"math/rand"
 	"time"
-	"../../pkg/life"
+
+	"github.com/fynjybath/LifeGame-GO-server/pkg/life"
 )
 
 // для хранения состояния
